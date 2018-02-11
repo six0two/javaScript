@@ -24,3 +24,13 @@ liczba1--;
 console.log(liczba1);
 //dekrementacja
 
+// Operatory przypisania
+
+liczba1 +=2; // liczba1 = liczba1 + 2;
+
+console.log(liczba1);
+
+liczba1 -=10;
+
+console.log(liczba1);
+
