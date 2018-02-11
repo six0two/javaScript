@@ -27,3 +27,13 @@ for( var i = 0; i < tablica.length; i++) {
     console.log( i , tablica[i]);
 }
 
+var iter = 0;
+while( iter < 20 ) {
+    console.log( iter );
+    ++iter;
+}
+
+var iter = 20;
+do {
+    console.log(iter);
+} while( iter < 10 );
