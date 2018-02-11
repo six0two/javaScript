@@ -15,3 +15,11 @@ console.log(osoba["nazwisko"]);
 
 osoba.wyswietlSzczegoly();
 // wywołanie funkcji. Funkcja ma już w sobie log.
+
+osoba.wiek = 36;
+osoba.wyswietlWiek = function(){
+    console.log(this.wiek);
+}
+//dodanie właściwości
+
+osoba.wyswietlWiek();
