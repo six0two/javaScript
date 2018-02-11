@@ -18,3 +18,13 @@ ogloszenie1.wyswietlOgloszenie();
 var ogloszenie2 = new Ogloszenie( "Sprzedam Audi", "Niemiec do granicy odprowadzał", "543-234-876", 24000);
 
 ogloszenie2.wyswietlOgloszenie();
+
+
+//stałe matematyczne
+
+console.log(Math.E);
+console.log(Math.PI);
+console.log(Math.LN10);
+
+//stałe matematyczne
+
